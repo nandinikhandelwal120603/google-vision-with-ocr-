@@ -48,8 +48,7 @@ ocr-with-google-vision.xaml
 
 ```
 ocr-with-google-vision/
-├── ocr-with-google-vision.xaml       # The OpenRPA workflow
-├── sample-image.png                  # Example image for OCR
+├── google_vision_with_ocr.xaml       # The OpenRPA workflow
 ├── README.md                         # (You’re reading this!)
 ```
 
